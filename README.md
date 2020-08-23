@@ -21,7 +21,7 @@ And when all is install :
   "token": "your token"
   }
   "
-    - and replace "your token" by your discord bot token !
+    - and replace "your token" by your discord bot token and "t!" by your prefix !
 
 # Thanks you
 
