@@ -1,0 +1,30 @@
+{
+  "name": "tgwlbot",
+  "version": "0.0.1",
+  "description": "The discord bot for TGWL Discord",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LapsTimeOFF/tgwlbot.git"
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "js",
+    "javascript",
+    "discord.js"
+  ],
+  "author": "LapsTime, TGWL Developement Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LapsTimeOFF/tgwlbot/issues"
+  },
+  "homepage": "https://github.com/LapsTimeOFF/tgwlbot#readme"
+}
